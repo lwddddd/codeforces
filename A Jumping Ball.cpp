@@ -3,6 +3,7 @@
 using namespace std;
 char cnt[200000];
 int  main() {
+	//fuck22222 
 	int n;
 	int sum=0,flag=1;
 	scanf("%d",&n);
